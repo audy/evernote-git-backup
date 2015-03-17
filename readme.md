@@ -5,7 +5,16 @@
 
 ## Usage
 
-`./backup`
+```sh
+
+# run intial backup once
+./evernote-backup.applescript
+git commit notes -m 'initial backup'
+
+# for all future backups
+./backup
+
+```
 
 ## LICENSE
 
