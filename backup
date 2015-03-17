@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./evernote-backup.applescript
+git commit notes -m 'automated commit'
