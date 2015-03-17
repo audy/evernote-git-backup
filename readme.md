@@ -8,7 +8,7 @@
 - Evernote
 - Mac OS X/AppleScript
 
-(PRs welcome if you can make a version that works with Windows)
+(PRs welcome if you can make a version that works with Windows/Linux/Plan 9)
 
 ## Usage
 
