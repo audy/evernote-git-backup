@@ -12,7 +12,5 @@ set outputpath to POSIX path of ((path to me as text) & "::") & "notes"
 
 tell application "Evernote"
     set allmynotes to find notes
-    set matches to find notes "created:19900101"
-    -- export to file set above
     export allmynotes to outputpath format HTML
 end tell
