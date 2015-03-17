@@ -3,6 +3,13 @@
 - Backup all Evernote notes to HTML (AppleScript).
 - Track resulting HTML with git.
 
+## Requirements
+
+- Evernote
+- Mac OS X/AppleScript
+
+(PRs welcome if you can make a version that works with Windows)
+
 ## Usage
 
 ```sh
