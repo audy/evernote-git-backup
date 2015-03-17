@@ -7,6 +7,7 @@
 
 -- this will delete and replace the notes directory every time!
 
+-- this is how you get $PWD in AppleScript (ノಠ益ಠ)ノ
 set outputpath to POSIX path of ((path to me as text) & "::") & "notes"
 
 tell application "Evernote"
